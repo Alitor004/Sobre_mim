@@ -1,0 +1,38 @@
+body{
+    margin-top: 25%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: auto;
+}
+
+.fundo{
+ background-color: rgb(193, 193, 193);
+}
+
+.corpo{
+    height: 425px;
+    width: 425px;
+    background-color: gray;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    font-size: medium;
+}
+.categoria{
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.foto{
+    width: 100px;
+    height: 160px;
+}
+.divfoto{
+    margin-top: 10px;
+    margin-left: 280px;
+    display: flex;
+    position: fixed;
+}
